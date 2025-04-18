@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **eden real estate**
 
-- 👨‍💻 All of my projects are available at [https://code-with-godie.vercel.app](https://code-with-godie.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://code-with-godie.vercel.app)
 
-- 📝 I regularly write articles on [https://linkedin.com/in/code-with-godie](https://linkedin.com/in/code-with-godie)
+- 📝 I regularly write articles on [linkedin](https://linkedin.com/in/code-with-godie)
 
 - 💬 Ask me about **react,nextjs,node,Express,Javascript,typeScript**
 
